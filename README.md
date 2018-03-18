@@ -1,2 +1,2 @@
 # python
-use for python program
+I'd like to use github to start python program
